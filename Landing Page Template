@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Landing Page</title>
+    <style>
+        body { text-align: center; font-family: Arial; }
+        .container { padding: 50px; }
+        button { padding: 10px 20px; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Our Service</h1>
+        <p>Join us to experience something amazing.</p>
+        <button onclick="alert('Signup successful!')">Sign Up Now</button>
+    </div>
+</body>
+</html>
